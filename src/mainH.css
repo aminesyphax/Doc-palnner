@@ -1,0 +1,14 @@
+
+.logo{
+
+    display: inherit;
+    justify-content: center;
+    
+  }
+  
+  .sub-title{
+  
+    font-size: 20px;
+    color:#00b39b;
+    text-align:center;
+  }

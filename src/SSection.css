@@ -1,0 +1,40 @@
+.brands-section{
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 2%;
+  
+  }
+  
+  .slogan{
+  
+    display: inline;
+    font-size: 24px;
+    color:#00b39b;
+    ul.brands li{
+
+        list-style:none;
+        display: inline;
+        margin-top: 20px;
+      }
+      
+      .brands a{
+        
+        text-decoration: none;
+        padding: 5px;
+        font-size: 18px; 
+        color:#A0A0A0;
+       
+      }
+      
+      .brands a:hover{
+      
+            color:#00CCB1;  
+      }
+      
+  
+  }
+  

@@ -1,0 +1,116 @@
+.container{
+
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 2%;
+  }
+  
+  .note1{
+  
+     font-weight: 400;
+     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+     color: #747474;
+     margin-left: 2.5%;
+     line-height: 2;
+  }
+  
+  .note2{
+  
+      font-weight: 400;
+     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+     color: #747474;
+     margin-left: 2.5%;
+     line-height: 2;
+  
+  }
+  
+  .services-card{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%; 
+  
+  }
+  
+  .patient-card{
+  
+      border-radius: 10px;
+      padding-top: 1.375em;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 2.5em;
+      margin-right: 40px; 
+      box-sizing: inherit;
+      width: 50%;
+      background-color: #00ccb1;
+      position: relative;
+  
+  }
+  
+  
+  .doctor-card{
+  
+    border-radius: 10px;
+    padding-top: 1.375em;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 2.5em;  
+    margin-left: -20px;
+    box-sizing: inherit;
+    width: 50%;                                      
+    background-color:#3D83DF;  
+    position: relative;
+  
+   }
+  
+  .card-title{
+  
+    font-size: 14px;
+    color: hsla(0,0%,100%,.7);
+  }
+  
+  .card-paragraph{
+  
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+   
+  }
+  
+  select{
+  
+    height: 40px;
+    position: absolute;
+  
+  }
+  
+  .card-col{
+  
+    overflow: hidden;
+    
+  }
+  
+  .card-col img{
+     
+     
+     max-width:100%;
+     margin-left: 40%;
+     margin-top: -.3em;
+  }
+  .brands-section{
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 2%;
+  
+  }
+    
